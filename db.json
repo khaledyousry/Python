@@ -3,5 +3,5 @@
     { "id": 6324, "name" : "Mark Zuckerberg", "title": "Facebook", "report" : [4224,9889,1234] },
     { "id": 4224, "name" : "Steve Jobes", "title": "Apple", "report" : [] },
     { "id": 6353, "name" : "Werdrn Rack", "title": "Oracle", "report" : [3524,7474] },
-    { "id": 3524, "name" : "Michel Hay", "title": "HP", "report" : [] },
+    { "id": 3524, "name" : "Michel Hay", "title": "HP", "report" : [] }
 ]
