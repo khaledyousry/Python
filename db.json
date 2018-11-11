@@ -1,5 +1,5 @@
 {
-  "api": [
+  [
     { "id": 4343, "name" : "Bill Gates", "title": "Microsoft", "report" : [6324,6353] },
     { "id": 6324, "name" : "Mark Zuckerberg", "title": "Facebook", "report" : [4224,9889,1234] },
     { "id": 4224, "name" : "Steve Jobes", "title": "Apple", "report" : [] },
