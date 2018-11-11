@@ -2,9 +2,6 @@
     { "id": 4343, "name" : "Bill Gates", "title": "Microsoft", "report" : [6324,6353] },
     { "id": 6324, "name" : "Mark Zuckerberg", "title": "Facebook", "report" : [4224,9889,1234] },
     { "id": 4224, "name" : "Steve Jobes", "title": "Apple", "report" : [] },
-    { "id": 9889, "name" : "Amy Rand", "title": "Amazon", "report" : [] },
-    { "id": 1234, "name" : "Linda Toy", "title": "LinkedIn", "report" : [] },
     { "id": 6353, "name" : "Werdrn Rack", "title": "Oracle", "report" : [3524,7474] },
     { "id": 3524, "name" : "Michel Hay", "title": "HP", "report" : [] },
-    { "id": 7474, "name" : "John Bart", "title": "IBM", "report" : [] }
 ]
